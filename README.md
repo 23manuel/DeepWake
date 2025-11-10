@@ -1,4 +1,4 @@
-# DeepWake
+# Boat_Image_Classification_Model
 Added image classification notebook comparing scratch vs pretrained CNNs
 
 # Boat Image Classification Project
